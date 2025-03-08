@@ -1,3 +1,11 @@
 {
-	"icon": "trinkets:gui/slots/legs/wrench"
+	"icon": "trinkets:gui/slots/legs/wrench",
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "create"
+            ]
+        }
+    ]
 }

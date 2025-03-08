@@ -1,4 +1,12 @@
 {
 	"icon": "trinkets:gui/slots/legs/controller",
-    "amount": 5
+    "amount": 5,
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "create"
+            ]
+        }
+    ]
 }

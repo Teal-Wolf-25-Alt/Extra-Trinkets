@@ -1,3 +1,11 @@
 {
-	"icon": "trinkets:gui/slots/hand/clipboard"
+	"icon": "trinkets:gui/slots/hand/clipboard",
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "create"
+            ]
+        }
+    ]
 }
