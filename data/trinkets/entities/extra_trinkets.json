@@ -6,6 +6,7 @@
       "legs/wrench",
       "legs/controller",
       "hand/clipboard",
-      "chest/potion"
+      "chest/potion",
+      "hand/shard_tablet"
     ]
   }
