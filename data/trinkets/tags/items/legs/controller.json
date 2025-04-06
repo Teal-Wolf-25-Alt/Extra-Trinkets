@@ -1,3 +1,12 @@
 {
-    "values": ["create:linked_controller","weird-wares:sculk_remote"]
+    "values": [
+        {
+            "id":"create:linked_controller",
+            "required":false
+        },
+        {
+            "id":"weird-wares:sculk_remote",
+            "required":false
+        }
+    ]
 }

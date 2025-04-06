@@ -1,3 +1,20 @@
 {
-    "values": ["#c:wrenches","create:linked_controller","weird-wares:sculk_remote","create:super_glue"]
+    "values": [
+        {
+            "id":"#c:wrenches",
+            "required":false
+        },
+        {
+            "id":"create:linked_controller",
+            "required":false
+        },
+        {
+            "id":"weird-wares:sculk_remote",
+            "required":false
+        },
+        {
+            "id":"create:super_glue",
+            "required":false
+        }
+    ]
 }

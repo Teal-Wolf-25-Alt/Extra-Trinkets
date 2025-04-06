@@ -1,3 +1,8 @@
 {
-    "values": ["scattered_shards:shard_tablet"]
+    "values": [
+        {
+            "id":"scattered_shards:shard_tablet",
+            "required":false
+        }
+    ]
 }

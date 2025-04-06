@@ -1,3 +1,8 @@
 {
-    "values": ["create:clipboard"]
+    "values": [
+        {
+            "id":"create:clipboard",
+            "required":false
+        }
+    ]
 }
