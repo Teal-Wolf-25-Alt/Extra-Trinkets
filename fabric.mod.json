@@ -4,7 +4,7 @@
     "environment": "*",
     "name": "Extra Trinkets",
     "id": "extra_trinkets",
-    "version": "1.7",
+    "version": "1.8",
     "description": "Adds practical Trinkets slots, mostly to Create.",
     "icon": "pack.png",
     "license": "All rights reserved",
